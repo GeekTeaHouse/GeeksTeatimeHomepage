@@ -1,0 +1,3 @@
+[submodule "dist"]
+	path = dist
+	url = https://github.com/GeeksTeatime/GeeksTeatime.github.io.git
